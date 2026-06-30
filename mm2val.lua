@@ -1,6 +1,3 @@
--- MM2 Values from SupremeValues
--- Auto-generated
-
 local weaponValues = {
     Chroma = {
         ["Chroma Traveler's Gun"] = 220000,
