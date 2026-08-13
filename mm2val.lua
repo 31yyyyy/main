@@ -459,8 +459,8 @@ local weaponValues = {
         ["Deep Sea"] = 0.02
     },
     Uncommon = {
-        ["Bones"] = 10,
-        ["Brains"] = 10,
+        ["Bones"] = 1,
+        ["Brains"] = 1,
         ["Zombified (Knife)"] = 120,
         ["Branches"] = 50,
         ["Mummy (2017)"] = 18,
