@@ -1,0 +1,59 @@
+-- Decompiled with Potassium's decompiler.
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage");
+local Inventory = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("Inventory");
+local u1;
+
+repeat
+    u1 = Inventory:WaitForChild("GetProfileData"):InvokeServer();
+    task.wait(0.1);
+until u1 ~= nil;
+
+local ProfileDataChanged = Inventory:WaitForChild("ProfileDataChanged");
+local InventoryDataChanged = Inventory:WaitForChild("InventoryDataChanged");
+local UpdateDataClient = ReplicatedStorage:WaitForChild("UpdateDataClient");
+local u2 = {
+    Weapons = true,
+    Pets = true,
+    Materials = true
+};
+
+local function LegacyConvertToysToEmotes() -- Line: 22
+    -- upvalues: u1 (ref)
+    for _, v in u1.Toys.Owned do
+        if not table.find(u1.Emotes.Owned, v) then
+            table.insert(u1.Emotes.Owned, v);
+        end;
+    end;
+end;
+
+local function LegacyUpdate() -- Line: 31
+    -- upvalues: LegacyConvertToysToEmotes (copy)
+    LegacyConvertToysToEmotes();
+end;
+
+local function onProfileDataChanged(p3, p4) -- Line: 35
+    -- upvalues: u1 (ref), ProfileDataChanged (copy)
+    u1[p3] = p4;
+    ProfileDataChanged:Fire(p3, p4);
+end;
+
+local function onInventoryItemChanged(p5, p6, p7) -- Line: 40
+    -- upvalues: u2 (copy), u1 (ref), LegacyConvertToysToEmotes (copy), InventoryDataChanged (copy), UpdateDataClient (copy)
+    if u2[p5] then
+        u1[p5].Owned[p6] = p7;
+    elseif p7 ~= nil and p7 > 0 then
+        table.insert(u1[p5].Owned, p6);
+    end;
+
+    LegacyConvertToysToEmotes();
+    InventoryDataChanged:Fire(p5, p6, p7);
+    UpdateDataClient:Fire(false, u1);
+end;
+
+LegacyConvertToysToEmotes();
+Inventory:WaitForChild("ChangeProfileData").OnClientEvent:Connect(onProfileDataChanged);
+Inventory:WaitForChild("ChangeInventoryItem").OnClientEvent:Connect(onInventoryItemChanged);
+_G.UpdateEmotes = LegacyConvertToysToEmotes;
+
+return u1;
