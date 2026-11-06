@@ -3,12 +3,12 @@
   "filledFromReview": 198,
   "generatedAt": "2026-11-04T10:51:05Z",
   "rarityFloor": {
-    "Epic": 50,
-    "Exclusive": 1000,
-    "Legendary": 100,
-    "Mythic": 1000,
-    "Rare": 25,
-    "Secret": 1000
+    "Epic": 5,
+    "Exclusive": 30,
+    "Legendary": 7,
+    "Mythic": 10,
+    "Rare": 3,
+    "Secret": 30
   },
   "schemaVersion": 1,
   "source": "aavalues.trade (via values_builder.py)",
