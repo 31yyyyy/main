@@ -1181,13 +1181,13 @@
     },
     "nagumo": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 125,
+      "shiny": 250
     },
     "nagumo_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 125,
+      "shiny": 250
     },
     "nail": {
       "category": "unique_items",
@@ -1321,18 +1321,18 @@
     },
     "rikka": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 75,
+      "shiny": 150
     },
     "rikka_evolve": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 375,
+      "shiny": 750
     },
     "rikka_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 375,
+      "shiny": 750
     },
     "rin_oku": {
       "category": "units",
