@@ -56,8 +56,8 @@
     },
     "albedo_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "alucard": {
       "category": "units",
@@ -86,28 +86,28 @@
     },
     "armin_christmas_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "armin_school_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "armin_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "asta_evolved_christmas_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "asuna_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "atsushi": {
       "category": "units",
@@ -181,18 +181,18 @@
     },
     "bulma_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "bulma_school_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "bulma_summer_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "caesarclown": {
       "category": "units",
@@ -216,8 +216,8 @@
     },
     "cell_perfect_basketball_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "chihiro": {
       "category": "units",
@@ -226,8 +226,8 @@
     },
     "chihiro_evolve": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "chihiro_evolved": {
       "category": "units",
@@ -281,8 +281,8 @@
     },
     "deku_halloween_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "denji": {
       "category": "units",
@@ -301,8 +301,8 @@
     },
     "diane_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "dio_heaven": {
       "category": "units",
@@ -326,8 +326,8 @@
     },
     "dokuro_evolve": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "dokuro_evolved": {
       "category": "units",
@@ -346,18 +346,18 @@
     },
     "easter_egg_reward_1": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "easter_egg_reward_2": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "easter_egg_reward_3": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "emilia": {
       "category": "units",
@@ -366,23 +366,23 @@
     },
     "erwin_halloween_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "erwin_school_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "erza": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "erza_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "erza_lightning": {
       "category": "units",
@@ -401,8 +401,8 @@
     },
     "escanor_evolved_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "esdeath": {
       "category": "units",
@@ -416,8 +416,8 @@
     },
     "eto_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "frieren": {
       "category": "units",
@@ -431,13 +431,13 @@
     },
     "frieren_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "frieza_golden_summer_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "frieza_mecha": {
       "category": "units",
@@ -471,23 +471,23 @@
     },
     "gift__AprilCoins__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__SummerPearls__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__anniversary_bundle_one__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__anniversary_bundle_two__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__april_bundle__gift": {
       "category": "gamepass_items",
@@ -521,8 +521,8 @@
     },
     "gift__comeback_bundle__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__display_more_pets__gift": {
       "category": "gamepass_items",
@@ -536,18 +536,18 @@
     },
     "gift__gems__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__halloween_bundle_one__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__halloween_bundle_two__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__rerelease_bundle__gift": {
       "category": "gamepass_items",
@@ -566,28 +566,28 @@
     },
     "gift__summer_bundle_one__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__summer_bundle_three__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__summer_bundle_two__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__trait_reroll__gift": {
       "category": "gamepass_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__trait_reroll_legacy__gift": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gift__unit_storage__gift": {
       "category": "gamepass_items",
@@ -611,13 +611,13 @@
     },
     "gilgamesh_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "gilgamesh_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "gin": {
       "category": "units",
@@ -631,8 +631,8 @@
     },
     "giselle_summer_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "gogeta_failed": {
       "category": "units",
@@ -641,13 +641,13 @@
     },
     "gojo_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "gon_adult_halloween_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "gowther": {
       "category": "units",
@@ -661,13 +661,13 @@
     },
     "grimmjow_halloween_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "guts_berserker_halloween_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "haku": {
       "category": "units",
@@ -691,8 +691,8 @@
     },
     "hawks_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "heathcliff": {
       "category": "units",
@@ -741,8 +741,8 @@
     },
     "hisoka_christmas_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "homura": {
       "category": "units",
@@ -751,8 +751,8 @@
     },
     "homura_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "homura_evolved": {
       "category": "units",
@@ -761,13 +761,13 @@
     },
     "homura_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "homura_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "hoshino": {
       "category": "units",
@@ -776,8 +776,8 @@
     },
     "hoshino_christmas_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "hoshino_evolved": {
       "category": "units",
@@ -786,13 +786,13 @@
     },
     "hoshino_halloween_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "hoshino_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "ichigo_hollow": {
       "category": "units",
@@ -801,8 +801,8 @@
     },
     "ichigo_summer_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "inuyasha": {
       "category": "units",
@@ -881,18 +881,18 @@
     },
     "juuzou_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "juvia_summer_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "katakuri_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "kenshin": {
       "category": "units",
@@ -911,13 +911,13 @@
     },
     "kento_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "killua_godspeed_school_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "kimimaro": {
       "category": "units",
@@ -926,8 +926,8 @@
     },
     "kirito_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "kisame_unit": {
       "category": "units",
@@ -996,13 +996,13 @@
     },
     "koichi_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "konan_unit_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "koneko": {
       "category": "units",
@@ -1031,23 +1031,23 @@
     },
     "lancer_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "law_2_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "law_2_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "leafa_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "lelouch": {
       "category": "units",
@@ -1061,8 +1061,8 @@
     },
     "levi_school_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "luck": {
       "category": "units",
@@ -1076,8 +1076,8 @@
     },
     "luck_evolved_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "lucy": {
       "category": "units",
@@ -1091,13 +1091,13 @@
     },
     "luffy_christmas_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "luffy_halloween_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "luffy_marineford": {
       "category": "units",
@@ -1106,8 +1106,8 @@
     },
     "madara_halloween_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "madoka": {
       "category": "units",
@@ -1136,8 +1136,8 @@
     },
     "meliodas_evolved_halloween_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "merlin": {
       "category": "units",
@@ -1151,8 +1151,8 @@
     },
     "metal_knight_summer_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "minato": {
       "category": "units",
@@ -1191,8 +1191,8 @@
     },
     "nail": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "nami": {
       "category": "units",
@@ -1206,13 +1206,13 @@
     },
     "narberal_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "nezuko_school_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "obito": {
       "category": "units",
@@ -1226,8 +1226,8 @@
     },
     "osaka_evolve": {
       "category": "normal_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "osaka_evolved": {
       "category": "units",
@@ -1276,8 +1276,8 @@
     },
     "pitou_halloween_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "poseidon": {
       "category": "units",
@@ -1326,8 +1326,8 @@
     },
     "rikka_evolve": {
       "category": "normal_items",
-      "normal": 375,
-      "shiny": 750
+      "normal": 10,
+      "shiny": 10
     },
     "rikka_evolved": {
       "category": "units",
@@ -1366,38 +1366,38 @@
     },
     "roy": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "roy_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "rukia_christmas_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "rukia_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "rukia_summer_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "saber_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "saber_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "saiki": {
       "category": "units",
@@ -1416,13 +1416,13 @@
     },
     "sakamoto_summer_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "sakura_summer_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     },
     "sayaka": {
       "category": "units",
@@ -1436,8 +1436,8 @@
     },
     "shalltear_christmas_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "shidou": {
       "category": "units",
@@ -1461,8 +1461,8 @@
     },
     "shusui": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "skull_knight": {
       "category": "units",
@@ -1476,28 +1476,28 @@
     },
     "soifon_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "stain_christmas_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "sukuna_christmas_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "tatsumaki_halloween_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "tatsumaki_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "tatsumi": {
       "category": "units",
@@ -1516,13 +1516,13 @@
     },
     "tengen_2_summer_skin": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "thorfinn": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 30,
+      "shiny": 30
     },
     "toshiro": {
       "category": "units",
@@ -1536,8 +1536,8 @@
     },
     "unique_item": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "unohana": {
       "category": "units",
@@ -1546,13 +1546,13 @@
     },
     "uryu_school_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "usopp_ts_summer_skin": {
       "category": "unique_items",
-      "normal": 400,
-      "shiny": 400
+      "normal": 7,
+      "shiny": 7
     },
     "vanilla_ice": {
       "category": "units",
@@ -1566,13 +1566,13 @@
     },
     "wendy_halloween_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "whitebeard_christmas_skin": {
       "category": "unique_items",
-      "normal": 200,
-      "shiny": 200
+      "normal": 5,
+      "shiny": 5
     },
     "yamamoto": {
       "category": "units",
@@ -1586,8 +1586,8 @@
     },
     "yamamoto_sword": {
       "category": "unique_items",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 10,
+      "shiny": 10
     },
     "yoshino": {
       "category": "units",
@@ -1606,8 +1606,8 @@
     },
     "zoro_halloween_skin": {
       "category": "unique_items",
-      "normal": 100,
-      "shiny": 100
+      "normal": 3,
+      "shiny": 3
     }
   }
 }
