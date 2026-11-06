@@ -21,7 +21,7 @@
     },
     "aizen_christmas": {
       "category": "units",
-      "normal": 1600.0,
+      "normal": 1700.0,
       "shiny": 15000.0
     },
     "akeno": {
@@ -221,8 +221,8 @@
     },
     "chihiro": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 275.0,
+      "shiny": 1600.0
     },
     "chihiro_evolve": {
       "category": "normal_items",
@@ -231,8 +231,8 @@
     },
     "chihiro_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 275.0,
+      "shiny": 1600.0
     },
     "chuya": {
       "category": "units",
@@ -321,8 +321,8 @@
     },
     "dokuro": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 75.0,
+      "shiny": 300.0
     },
     "dokuro_evolve": {
       "category": "normal_items",
@@ -331,8 +331,8 @@
     },
     "dokuro_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 75.0,
+      "shiny": 300.0
     },
     "dominico": {
       "category": "units",
@@ -451,13 +451,13 @@
     },
     "gaku": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 50.0,
+      "shiny": 250.0
     },
     "gaku_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 50.0,
+      "shiny": 250.0
     },
     "geto": {
       "category": "units",
@@ -1082,7 +1082,7 @@
     "lucy": {
       "category": "units",
       "normal": 15.0,
-      "shiny": 15.0
+      "shiny": 1300.0
     },
     "lucy_evolved": {
       "category": "units",
@@ -1182,12 +1182,12 @@
     "nagumo": {
       "category": "units",
       "normal": 125,
-      "shiny": 250
+      "shiny": 500
     },
     "nagumo_evolved": {
       "category": "units",
       "normal": 125,
-      "shiny": 250
+      "shiny": 500
     },
     "nail": {
       "category": "unique_items",
@@ -1221,8 +1221,8 @@
     },
     "osaka": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 50.0,
+      "shiny": 200.0
     },
     "osaka_evolve": {
       "category": "normal_items",
@@ -1231,18 +1231,18 @@
     },
     "osaka_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 50.0,
+      "shiny": 200.0
     },
     "osaragi": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 75.0,
+      "shiny": 225.0
     },
     "osaragi_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 75.0,
+      "shiny": 225.0
     },
     "pain_2": {
       "category": "units",
@@ -1322,7 +1322,7 @@
     "rikka": {
       "category": "units",
       "normal": 75,
-      "shiny": 150
+      "shiny": 375
     },
     "rikka_evolve": {
       "category": "normal_items",
@@ -1331,8 +1331,8 @@
     },
     "rikka_evolved": {
       "category": "units",
-      "normal": 375,
-      "shiny": 750
+      "normal": 75,
+      "shiny": 375
     },
     "rin_oku": {
       "category": "units",
@@ -1406,13 +1406,13 @@
     },
     "sakamoto": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 50.0,
+      "shiny": 375.0
     },
     "sakamoto_evolved": {
       "category": "units",
-      "normal": 4000,
-      "shiny": 4000
+      "normal": 50.0,
+      "shiny": 375.0
     },
     "sakamoto_summer_skin": {
       "category": "unique_items",
